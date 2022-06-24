@@ -1,2 +1,2 @@
 # code-playground
-Code playground for learning development.
+Code playground for development.
